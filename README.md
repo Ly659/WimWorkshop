@@ -1,1 +1,1 @@
-"# WimWorkshop" 
+WimWorkshop是本人闲来无事写的Python小工具，主要作用是处理Windows下的wim映像文件。
