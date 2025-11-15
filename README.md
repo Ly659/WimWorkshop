@@ -1,8 +1,9 @@
-WimWorkshop是本人闲来无事写的Python练手项目，主要作用是处理Windows下的wim映像文件，包括挂载、解开、捕获映像文件等常用操作。
-wim是Windows中常用的映像格式，它主要用于用于封装系统。微软官方的dism映像处理工具使用上很复杂且不方便，故编写WimWorkshop，为专业人员提供一个简洁易用的wim工作站。
+WimWorkshop是本人闲来无事写的Python程序，主要作用是处理Windows下的wim映像文件，包括挂载、解开、捕获映像文件等常用操作。
+wim文件是Windows中常用的映像格式，它主要用于封装系统。为了简化微软dism映像处理工具的命令行操作，故编写此GUI程序。
 
 *注：目前WimWorkshop是dism工具的GUI版本，它依赖于dism程序，且仅支持带有dism工具的Windows版本（Vista及以上）。*
-随时更新~~~
+
+这只是一个练手的小项目，随缘更新。希望大家喜欢！
 
 图为WimWorkshop V1.0主界面。
 
